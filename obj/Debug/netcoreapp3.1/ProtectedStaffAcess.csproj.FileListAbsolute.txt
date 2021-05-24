@@ -1,0 +1,13 @@
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\bin\Debug\netcoreapp3.1\ProtectedStaffAcess.exe
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\bin\Debug\netcoreapp3.1\ProtectedStaffAcess.deps.json
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\bin\Debug\netcoreapp3.1\ProtectedStaffAcess.runtimeconfig.json
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\bin\Debug\netcoreapp3.1\ProtectedStaffAcess.runtimeconfig.dev.json
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\bin\Debug\netcoreapp3.1\ProtectedStaffAcess.dll
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\bin\Debug\netcoreapp3.1\ProtectedStaffAcess.pdb
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\obj\Debug\netcoreapp3.1\ProtectedStaffAcess.csprojAssemblyReference.cache
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\obj\Debug\netcoreapp3.1\ProtectedStaffAcess.AssemblyInfoInputs.cache
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\obj\Debug\netcoreapp3.1\ProtectedStaffAcess.AssemblyInfo.cs
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\obj\Debug\netcoreapp3.1\ProtectedStaffAcess.csproj.CoreCompileInputs.cache
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\obj\Debug\netcoreapp3.1\ProtectedStaffAcess.dll
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\obj\Debug\netcoreapp3.1\ProtectedStaffAcess.pdb
+C:\Users\Ifedayo\Documents\C# SBSC\ProtectedStaffAcess\obj\Debug\netcoreapp3.1\ProtectedStaffAcess.genruntimeconfig.cache
